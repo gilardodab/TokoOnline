@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "357631776533",
+    "project_id": "laksa-medika",
+    "storage_bucket": "laksa-medika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357631776533:android:7420a5962d1bb3a8e5bb1c",
+        "android_client_info": {
+          "package_name": "com.gilardo.venomshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357631776533-tph5c33ugilqt8dd7423pdrqr57v87im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB620vSLGjlkGjlZt92cMhwJw2sOwZQq7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357631776533-tph5c33ugilqt8dd7423pdrqr57v87im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357631776533:android:e9c7109c21abab19e5bb1c",
+        "android_client_info": {
+          "package_name": "com.inyongtisto.tokoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357631776533-tph5c33ugilqt8dd7423pdrqr57v87im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB620vSLGjlkGjlZt92cMhwJw2sOwZQq7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357631776533-tph5c33ugilqt8dd7423pdrqr57v87im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357631776533:android:20ea5f161bfcd5bce5bb1c",
+        "android_client_info": {
+          "package_name": "com.pt.laksamedika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357631776533-tph5c33ugilqt8dd7423pdrqr57v87im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB620vSLGjlkGjlZt92cMhwJw2sOwZQq7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357631776533-tph5c33ugilqt8dd7423pdrqr57v87im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
